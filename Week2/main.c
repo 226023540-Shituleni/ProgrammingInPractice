@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     double total_revenue;
     double total_expenses;

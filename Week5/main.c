@@ -31,7 +31,7 @@ int main() {
     average = total / 50; 
  
     printf("\n--- Salary Report ---\n"); 
-    printf("Total salary payout: %.2f\n", total); // Added this line
+    printf("Total salary payout: %.2f\n", total);
     printf("Average salary: %.2f\n", average); 
     printf("Highest salary: %.2f\n", highest); 
     printf("Lowest salary: %.2f\n", lowest); 
