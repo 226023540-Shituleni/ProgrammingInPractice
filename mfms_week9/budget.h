@@ -1,0 +1,9 @@
+#ifndef BUDGET_H
+#define BUDGET_H
+
+#include "config.h"
+
+void addBudget(void);
+double calculateBudgetBalance(void);
+
+#endif
